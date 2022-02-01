@@ -34,7 +34,7 @@ void main()
 void menu()
 {
     int choice;
-    system("cls");
+    system("cls");//to clear the previous screen
     printf("\n--------MENU--------");
     printf("\n1 : Play with X");
     printf("\n2 : Play with O");
